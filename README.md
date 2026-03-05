@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm JaeHaeng Lee!
 
-### 🤖 AI Developer & Aspiring Data Scientist
+### 🤖 AI Developer & Data Scientist
 
 "데이터와 AI로 세상의 문제를 해결하는 개발자, 이재행입니다."
 
