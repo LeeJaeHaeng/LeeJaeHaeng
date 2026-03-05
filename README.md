@@ -56,27 +56,20 @@ class JaeHaengLee:
 
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
-</p>
-
-**Data Analysis & Visualization** ⭐
-
-<p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 </p>
 
-**Frameworks & Backend**
+**Frameworks**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </p>
 
@@ -87,22 +80,26 @@ class JaeHaengLee:
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </p>
 
 ---
 
-### 📂 Featured Projects
+### 📂 Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[parking_pass](https://github.com/LeeJaeHaeng/parking_pass)** | 🏆 천안시 공영주차장 혼잡도 및 실시간 현황 확인 앱 | TypeScript |
-| **[HuLife-App](https://github.com/LeeJaeHaeng/3.2_HuLife-App)** | 🤖 시니어 대상 AI 기반 취미 추천 및 커뮤니티 앱 | React Native, Expo, Next.js |
-| **[VoiceShield_AI](https://github.com/LeeJaeHaeng/3.2_VoiceShield_AI)** | 🔐 딥페이크 및 보이스 종합 탐지 보안 앱 | JavaScript, AI |
+| **[parking_pass](https://github.com/LeeJaeHaeng/parking_pass)** | 🏆 천안시 공영주차장 혼잡도 및 실시간 주차현황 확인 앱 | TypeScript |
+| **[HuLife-App](https://github.com/LeeJaeHaeng/3.2_HuLife-App)** | 🤖 시니어 대상 AI 기반 취미 추천 및 커뮤니티 앱 | TypeScript, React Native, Expo, Next.js |
+| **[VoiceShield_AI](https://github.com/LeeJaeHaeng/3.2_VoiceShield_AI)** | 🔐 딥페이크 & 딥보이스 종합 탐지 보안 앱 | JavaScript |
 | **[Franchise_Analysis](https://github.com/LeeJaeHaeng/3.2-franchise_recruitment_analysis)** | 📊 데이터 기반 PC방 창업 가맹점 모집 플랫폼 | TypeScript |
+| **[JobSearch-App](https://github.com/LeeJaeHaeng/3.2_JobSearch-App)** | 💼 모바일 SW 프로젝트 취업 정보 앱 | JavaScript |
 | **[Bicycle_Recommend](https://github.com/LeeJaeHaeng/3.1_Public-Bicycle-Stop-Location-Recommendation-Project)** | 🚲 공공자전거 대여소 최적 위치 추천 (데이터 분석) | Python |
+| **[Unmanned-Parking-C](https://github.com/LeeJaeHaeng/2.1_Unmanned-parking-lot-management-program-by-C)** | 🅿️ C언어 기반 무인 주차장 관리 프로그램 | C |
+| **[Student_management](https://github.com/LeeJaeHaeng/2.2_Student_management_system)** | 🎓 txt & MySQL 연동 학생정보 관리 시스템 | Java, MySQL |
+| **[Survey-Django](https://github.com/LeeJaeHaeng/Building-a-survey-website-using-django)** | 📋 Django & ngrok 기반 설문 웹사이트 | Python, Django |
 
 ---
 
