@@ -36,7 +36,7 @@ class JaeHaengLee:
 
 ### 🏆 Achievements
 
-* **[2025 천안시 스마트시티를 위한 아이디어 공모전]** 최우수상 수상 (`parking_pass`)
+* **[2025 천안시 스마트시티를 위한 AI 아이디어 공모전]** 최우수상 수상 (`parking_pass`)
 
 ---
 
