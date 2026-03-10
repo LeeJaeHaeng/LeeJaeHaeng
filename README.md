@@ -94,12 +94,6 @@ class JaeHaengLee:
 | **[parking_pass](https://github.com/LeeJaeHaeng/parking_pass)** | 🏆 천안시 공영주차장 혼잡도 및 실시간 주차현황 확인 앱 | TypeScript |
 | **[HuLife-App](https://github.com/LeeJaeHaeng/3.2_HuLife-App)** | 🤖 시니어 대상 AI 기반 취미 추천 및 커뮤니티 앱 | TypeScript, React Native, Expo, Next.js |
 | **[VoiceShield_AI](https://github.com/LeeJaeHaeng/3.2_VoiceShield_AI)** | 🔐 딥페이크 & 딥보이스 종합 탐지 보안 앱 | JavaScript |
-| **[Franchise_Analysis](https://github.com/LeeJaeHaeng/3.2-franchise_recruitment_analysis)** | 📊 데이터 기반 PC방 창업 가맹점 모집 플랫폼 | TypeScript |
-| **[JobSearch-App](https://github.com/LeeJaeHaeng/3.2_JobSearch-App)** | 💼 모바일 SW 프로젝트 취업 정보 앱 | JavaScript |
-| **[Bicycle_Recommend](https://github.com/LeeJaeHaeng/3.1_Public-Bicycle-Stop-Location-Recommendation-Project)** | 🚲 공공자전거 대여소 최적 위치 추천 (데이터 분석) | Python |
-| **[Unmanned-Parking-C](https://github.com/LeeJaeHaeng/2.1_Unmanned-parking-lot-management-program-by-C)** | 🅿️ C언어 기반 무인 주차장 관리 프로그램 | C |
-| **[Student_management](https://github.com/LeeJaeHaeng/2.2_Student_management_system)** | 🎓 txt & MySQL 연동 학생정보 관리 시스템 | Java, MySQL |
-| **[Survey-Django](https://github.com/LeeJaeHaeng/Building-a-survey-website-using-django)** | 📋 Django & ngrok 기반 설문 웹사이트 | Python, Django |
 
 ---
 
