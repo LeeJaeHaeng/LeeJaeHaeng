@@ -1,6 +1,6 @@
 # 👋 안녕하세요, 이재행입니다
 
-### AI / Data · Backend Developer
+### AI / Data · Full-Stack Developer
 
 > 공공데이터와 AI 추천/예측 로직을 백엔드 API, PWA, 모바일 앱, 배포 환경까지 연결해 실제 사용 가능한 서비스로 만드는 개발자
 
