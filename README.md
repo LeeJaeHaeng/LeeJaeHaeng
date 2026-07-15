@@ -14,10 +14,9 @@
 
 - 🎓 선문대학교 컴퓨터공학부 재학 중 (2027.02 졸업 예정)
 - 🎯 **AI / Data · Backend Developer** 직무 지원
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cc3da879-127f-4fa4-a099-481d2669e232" />
- 2026 국토교통 데이터 활용 경진대회 **대상**
-- 🏆 2025 천안시 스마트시티 AI 아이디어 공모전 **최우수상**
-- 🎖️ 2026 전국 통합데이터 활용 공모전 **장려상**
+- 🥇 2026 국토교통 데이터 활용 경진대회 **대상**
+- 🥈 2025 천안시 스마트시티 AI 아이디어 공모전 **최우수상**
+- 🥉 2026 전국 통합데이터 활용 공모전 **장려상**
 - 📜 ADsP · GAIQ · 정보처리기사 필기합격
 - 🚀 공공데이터 수집/전처리, 추천/예측 알고리즘, FastAPI/Express API, React/Next.js/Expo, Vercel/AWS/Firebase 배포 경험
 - 🧩 외부 API 장애와 운영 환경 차이를 고려해 timeout, cache, fallback, health check를 함께 설계하는 편입니다
