@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 이재행입니다
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d3277613-f6ac-4ab0-9f21-daf986d51157" /># 👋 안녕하세요, 이재행입니다
 
 ### AI / Data · Full-Stack Developer
 
@@ -14,7 +14,8 @@
 
 - 🎓 선문대학교 컴퓨터공학부 재학 중 (2027.02 졸업 예정)
 - 🎯 **AI / Data · Backend Developer** 직무 지원
-- 🥇 2026 국토교통 데이터 활용 경진대회 **대상**
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cc3da879-127f-4fa4-a099-481d2669e232" />
+ 2026 국토교통 데이터 활용 경진대회 **대상**
 - 🏆 2025 천안시 스마트시티 AI 아이디어 공모전 **최우수상**
 - 🎖️ 2026 전국 통합데이터 활용 공모전 **장려상**
 - 📜 ADsP · GAIQ · 정보처리기사 필기합격
