@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d3277613-f6ac-4ab0-9f21-daf986d51157" /># 👋 안녕하세요, 이재행입니다
+# 👋 안녕하세요, 이재행입니다
 
 ### AI / Data · Full-Stack Developer
 
