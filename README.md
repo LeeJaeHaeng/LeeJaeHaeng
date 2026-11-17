@@ -158,10 +158,8 @@
 
 ## 기술
 
-| 구분 | 기술 |
-|---|---|
-| 실무 | Python · Django · PostgreSQL · JavaScript · Flutter · OR-Tools · OCR(Tesseract) · Claude API · AWS · nginx · gunicorn · GitHub |
-| 프로젝트 | TypeScript · React · FastAPI · Next.js · Kotlin · Spring Boot · Supabase · Firebase · XGBoost · LightGBM · PyTorch · Docker |
+- **실무** — Python · Django · PostgreSQL · JavaScript · Flutter · OR-Tools · OCR(Tesseract) · Claude API · AWS · nginx · gunicorn · GitHub
+- **개인 프로젝트** — TypeScript · React · FastAPI · Next.js · Kotlin · Spring Boot · Supabase · Firebase · XGBoost · LightGBM · PyTorch · Docker
 
 <br>
 
